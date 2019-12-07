@@ -1,0 +1,1 @@
+<annotations><filename>paper176.jpg</filename><folder>images</folder><size><width>512</width><height>384</height><depth>3</depth></size><object><name>paper</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>56.0</xmin><ymin>72.00000000000001</ymin><xmax>452.0</xmax><ymax>326.0</ymax></bndbox></object></annotations>

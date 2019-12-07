@@ -1,0 +1,1 @@
+<annotations><filename>metal74.jpg</filename><folder>images</folder><size><width>512</width><height>384</height><depth>3</depth></size><object><name>metal</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>4.0</xmin><ymin>134.0</ymin><xmax>425.0</xmax><ymax>382.0</ymax></bndbox></object></annotations>

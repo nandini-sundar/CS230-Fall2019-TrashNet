@@ -1,0 +1,1 @@
+<annotations><filename>cardboard230.jpg</filename><folder>images</folder><size><width>512</width><height>384</height><depth>3</depth></size><object><name>cardboard</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>4.0</xmin><ymin>4.0</ymin><xmax>510.0</xmax><ymax>382.0</ymax></bndbox></object></annotations>

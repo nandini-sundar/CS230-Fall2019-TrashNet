@@ -1,0 +1,1 @@
+<annotations><filename>trash29.jpg</filename><folder>images</folder><size><width>512</width><height>384</height><depth>3</depth></size><object><name>trash</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>48.0</xmin><ymin>30.0</ymin><xmax>495.0</xmax><ymax>314.0</ymax></bndbox></object></annotations>

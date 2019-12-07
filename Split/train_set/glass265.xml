@@ -1,0 +1,1 @@
+<annotations><filename>glass265.jpg</filename><folder>images</folder><size><width>512</width><height>384</height><depth>3</depth></size><object><name>glass</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>159.0</xmin><ymin>79.99999999999997</ymin><xmax>425.0</xmax><ymax>377.0</ymax></bndbox></object></annotations>

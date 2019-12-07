@@ -1,0 +1,1 @@
+<annotations><filename>plastic401.jpg</filename><folder>images</folder><size><width>512</width><height>384</height><depth>3</depth></size><object><name>plastic</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>97.0</xmin><ymin>138.99999999999997</ymin><xmax>407.0</xmax><ymax>254.99999999999997</ymax></bndbox></object></annotations>
