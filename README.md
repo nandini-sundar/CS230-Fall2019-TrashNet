@@ -23,7 +23,7 @@
 
 # Description
 
-This folder has images cleaning up the original TrashNet dataset (https://github.com/garythung/trashnet) -
+This folder has images after cleaning up the original TrashNet dataset (https://github.com/garythung/trashnet) -
 image with objects named as plastic actually belonged to trash and a few images that were named as glass/plastic belonged to metal class. 
 
 Bounding boxes for each image was manully annotated using the following annotation tool https://github.com/ManivannanMurugavel/Yolo-Annotation-Tool-New-
